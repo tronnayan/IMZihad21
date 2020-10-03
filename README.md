@@ -1,4 +1,4 @@
-### <b>Henlo, ZèD here!</b>
+### <b>Hello, ZèD here!</b>
 ### Welcome to my Profile,
 
 ![ZèD's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IMZihad21&show_icons=true&count_private=true&title_color=333&icon_color=333&hide=["issues"])
